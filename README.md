@@ -1,3 +1,10 @@
 # HackerrankPracticeSQL
 
 Solution to all the Hackerrank Practice SQL in MS SQL Server.
+
+BASIC SELECT 
+ADVANCED SELECT
+AGGREGATION
+BASIC JOIN
+ADVANCED JOIN
+ALTERNATIVE QUERIES
